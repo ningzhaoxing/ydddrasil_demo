@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.yggdrasildemo.UserTable">
+   <children>
+      <Label alignment="CENTER" layoutX="183.0" prefHeight="50.0" prefWidth="233.0" text="提瓦特世界树">
+         <font>
+            <Font size="29.0" />
+         </font>
+         <textFill>
+            <LinearGradient endX="1.0" endY="1.0" startX="0.819128787878788">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </textFill>
+      </Label>
+      <AnchorPane layoutX="15.0" layoutY="56.0" prefHeight="329.0" prefWidth="563.0">
+         <children>
+            <TableView fx:id="uTable" prefHeight="330.0" prefWidth="576.0">
+              <columns>
+                  <TableColumn fx:id="id" prefWidth="47.799988746643066" text="序号" />
+                  <TableColumn fx:id="username" prefWidth="55.999996185302734" text="名字" />
+                  <TableColumn fx:id="gender" prefWidth="55.399993896484375" text="性别" />
+                  <TableColumn fx:id="age" prefWidth="55.999969482421875" text="年龄" />
+                  <TableColumn fx:id="goe" prefWidth="60.80006408691406" text="神之眼" />
+                  <TableColumn fx:id="country" minWidth="0.0" prefWidth="53.20001220703125" text="国家" />
+                  <TableColumn fx:id="thump" prefWidth="79.5999755859375" text="重击" />
+                  <TableColumn fx:id="eleWf" prefWidth="84.20001220703125" text="元素战技" />
+                  <TableColumn fx:id="eleEl" prefWidth="86.0" text="元素爆发" />
+              </columns>
+            </TableView>
+         </children>
+      </AnchorPane>
+      <Button fx:id="exit" onAction="#exit" layoutX="449.0" layoutY="14.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="66.0" text="退出" />
+   </children>
+</Pane>

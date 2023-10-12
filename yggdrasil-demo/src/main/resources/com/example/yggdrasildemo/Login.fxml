@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.yggdrasildemo.Login">
+   <children>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="172.0" layoutY="34.0" prefHeight="50.0" prefWidth="256.0" text="提瓦特世界树">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="125.0" layoutY="121.0" prefHeight="31.0" prefWidth="60.0" text="用户名">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="123.0" layoutY="188.0" prefHeight="20.0" prefWidth="53.0" text="密码">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <TextField fx:id="userNameT" layoutX="226.0" layoutY="121.0" prefHeight="31.0" prefWidth="213.0" />
+      <TextField fx:id="passWordT" layoutX="226.0" layoutY="185.0" prefHeight="31.0" prefWidth="213.0" />
+      <Button fx:id="userLoginB" layoutX="108.0" layoutY="273.0" mnemonicParsing="false" onAction="#userLoginB" prefHeight="39.0" prefWidth="83.0" text="角色登录">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="SuperAdminLogin" onAction="#SuperAdminLogin" contentDisplay="CENTER" layoutX="235.0" layoutY="333.0" mnemonicParsing="false"  prefHeight="39.0" prefWidth="146.0" text="超级管理员登录" textFill="#df0e0e">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="registerB" layoutX="428.0" layoutY="273.0" mnemonicParsing="false" onAction="#registerB" prefHeight="39.0" prefWidth="60.0" text="注册">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="AdminLoginB" onAction="#AdminLoginB" layoutX="255.0" layoutY="273.0" mnemonicParsing="false" prefHeight="39.0" prefWidth="107.0" text="管理员登录">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>

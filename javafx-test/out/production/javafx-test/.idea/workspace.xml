@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="603b0f94-d535-4c79-8077-4f183192b8dd" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../Datatest/Datatest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DragonWorld/DragonWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlaneWar/MyPlaneWar/Myplanewar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlaneWar/MyPlaneWar/out/production/Myplanewar/Myplanewar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlaneWar/MyPlaneWar/out/production/Myplanewar/out/production/Myplanewar/Myplanewar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlaneWar/MyPlaneWar/src/Myplanewar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlaneWar/MyPlaneWar/src/out/production/Myplanewar/Myplanewar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_media.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaGUI/App.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-cal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-cal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-cal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-calculator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-calculator/matrix-calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-calculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-calculator/src/com/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-calculator/src/com/javaGUI/App.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanGuo/.idea/sanGuo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanGuo/sanGuo/.idea/sanGuo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanGuo1/sanGuo1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dawlots" beforeDir="false" afterPath="$PROJECT_DIR$/../dawlots" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../supermario/src/cjml/Mario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../supermario/src/cjml/Mario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../supermario/src/cjml/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../supermario/src/cjml/MyFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../supermario/src/cjml/Obstacle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../supermario/src/cjml/Obstacle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2VriPQg8ihq2QgfXjxuWe3BB2ey" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java/workSpace/javafx-test/src/javaGUI",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\workSpace\javafx-test\src\javaGUI" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="src.java.App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.App" />
+      <module name="javafx-test" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Administrator\openjfx-21_windows-x64_bin-sdk\javafx-sdk-21\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.media" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="603b0f94-d535-4c79-8077-4f183192b8dd" name="更改" comment="" />
+      <created>1695600575921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695600575921</updated>
+      <workItem from="1695600576933" duration="1150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
